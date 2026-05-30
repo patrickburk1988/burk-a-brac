@@ -1,0 +1,6 @@
+{
+    "BaB.MapNotesAlwaysDisplayTextLabels":      "Notas del mapa: Mostrar siempre etiquetas de texto",
+    "BaB.MapNotesAlwaysDisplayTextLabels_Hint": "Forzar que las notas del mapa muestren siempre etiquetas de texto.",
+    "BaB.MapNotesUseImageAspectRatio":          "Notas del mapa: Usar la relación de aspecto de la imagen",
+    "BaB.MapNotesUseImageAspectRatio_Hint":     "Establecer las dimensiones de las notas del mapa con la misma relación de aspecto que sus imágenes de origen."
+}

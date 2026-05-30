@@ -1,0 +1,48 @@
+{
+    "id": "burk-a-brac",
+    "title": "Burk-a-Brac",
+    "description": "A collection of miscellaneous tweaks for Foundry VTT.",
+    "authors": [{
+        "name": "Patrick Burk",
+        "url": "https://github.com/patrickburk1988",
+        "discord": "partridgebargus"
+    }],
+    "url": "https://github.com/patrickburk1988/burk-a-brac",
+    "manifest": "https://raw.githubusercontent.com/patrickburk1988/burk-a-brac/main/module.json",
+    "download": "https://github.com/patrickburk1988/burk-a-brac/releases/latest/download/burk-a-brac.zip",
+    "license": "GPL-3.0-or-later",
+    "readme": "https://raw.githubusercontent.com/patrickburk1988/burk-a-brac/main/README.md",
+    "changelog": "https://raw.githubusercontent.com/patrickburk1988/burk-a-brac/main/CHANGELOG.md",
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": 14,
+        "verified": "14.363"
+    },
+    "esmodules": [
+        "script/burk-a-brac.mjs"
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "language/en.json"
+        },
+        {
+            "lang": "es",
+            "name": "Español",
+            "path": "language/es.json"
+        }
+    ],
+    "media": [
+        {
+            "type": "cover",
+            "url": "https://raw.githubusercontent.com/patrickburk1988/burk-a-brac/main/image/thumbnail.webp",
+            "caption": "Burk-a-Brac"
+        },
+        {
+            "type": "setup",
+            "url": "https://raw.githubusercontent.com/patrickburk1988/burk-a-brac/main/image/thumbnail.webp",
+            "caption": "Burk-a-Brac"
+        }
+    ]
+}
