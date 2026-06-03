@@ -1,3 +1,6 @@
+// Burk-a-Brac | Copyright (C) 2026 Patrick Burk
+// Licensed under the GNU General Public License v3.0 or later.
+
 export function applyMapNotesTweaks (mapNote) {
     displayTextLabels(mapNote);
     useImageAspectRatio(mapNote);
