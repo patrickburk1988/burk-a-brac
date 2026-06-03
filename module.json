@@ -13,7 +13,7 @@
     "license": "GPL-3.0-or-later",
     "readme": "https://raw.githubusercontent.com/patrickburk1988/burk-a-brac/main/README.md",
     "changelog": "https://raw.githubusercontent.com/patrickburk1988/burk-a-brac/main/CHANGELOG.md",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "compatibility": {
         "minimum": 14,
         "verified": "14.363"
