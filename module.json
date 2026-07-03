@@ -16,7 +16,7 @@
     "version": "1.0.1",
     "compatibility": {
         "minimum": 14,
-        "verified": "14.363"
+        "verified": "14.364"
     },
     "esmodules": [
         "script/burk-a-brac.mjs"
