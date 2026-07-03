@@ -6,7 +6,14 @@ A small but growing collection of miscellaneous tweaks for Foundry VTT.
 
 ## Settings
 
-### 📌 Map Notes
+### 📖 Journals
+| Setting:                             | Explanation:                                                        |
+| ------------------------------------ | ------------------------------------------------------------------- |
+| **Show Thumbnails in Sidebar**       | Use a journal's first image as its thumbnail in the sidebar.        |
+| **Thumbnail Placement**              | Where to place the journal thumbnail.                               |
+| **Allow Thumbnails from Text Pages** | Search for journal thumbnails in text pages as well as image pages. |
+
+### 📍 Map Notes
 | Setting:                       | Explanation:                                                               |
 | ------------------------------ | -------------------------------------------------------------------------- |
 | **Always Display Text Labels** | Force map notes to always display text labels.                             |
