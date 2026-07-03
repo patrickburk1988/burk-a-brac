@@ -1,6 +1,22 @@
 {
-    "BaB.MapNotesAlwaysDisplayTextLabels":      "Notas del mapa: Mostrar siempre etiquetas de texto",
-    "BaB.MapNotesAlwaysDisplayTextLabels_Hint": "Forzar que las notas del mapa muestren siempre etiquetas de texto.",
-    "BaB.MapNotesUseImageAspectRatio":          "Notas del mapa: Usar la relación de aspecto de la imagen",
-    "BaB.MapNotesUseImageAspectRatio_Hint":     "Establecer las dimensiones de las notas del mapa con la misma relación de aspecto que sus imágenes de origen."
+    "BaB.AfterJournalName":                          "Después del nombre del diario",
+    "BaB.BeforeJournalName":                         "Antes del nombre del diario",
+    "BaB.JournalsAllowThumbnailsFromTextPages_Hint": "Buscar miniaturas en páginas de texto además de páginas de imágenes.",
+    "BaB.JournalsAllowThumbnailsFromTextPages":      "📖 Diarios: Permitir miniaturas de páginas de texto",
+    "BaB.JournalsShowThumbnailsInSidebar_Hint":      "Usar la primera imagen de un diario como su miniatura en la barra lateral.",
+    "BaB.JournalsShowThumbnailsInSidebar":           "📖 Diarios: Mostrar miniaturas en la barra lateral",
+    "BaB.JournalsThumbnailPlacement_Hint":           "Dónde colocar la miniatura del diario.",
+    "BaB.JournalsThumbnailPlacement":                "📖 Diarios: Posición de la miniatura",
+    "BaB.MapNotesAlwaysDisplayTextLabels_Hint":      "Forzar que las notas del mapa muestren siempre etiquetas de texto.",
+    "BaB.MapNotesAlwaysDisplayTextLabels":           "📍 Notas del mapa: Mostrar siempre etiquetas de texto",
+    "BaB.MapNotesUseImageAspectRatio_Hint":          "Establecer las dimensiones de las notas del mapa con la misma relación de aspecto que sus imágenes de origen.",
+    "BaB.MapNotesUseImageAspectRatio":               "📍 Notas del mapa: Usar la relación de aspecto de la imagen",
+    "BaB.UIDefaultCursor_Hint":                      "",
+    "BaB.UIDefaultCursor":                           "🖥 UI: Default Cursor",
+    "BaB.UIGrabCursor_Hint":                         "",
+    "BaB.UIGrabCursor":                              "🖥 UI: Grab Cursor",
+    "BaB.UIPointerCursor_Hint":                      "",
+    "BaB.UIPointerCursor":                           "🖥 UI: Pointer Cursor",
+    "BaB.UITextCursor_Hint":                         "",
+    "BaB.UITextCursor":                              "🖥 UI: Text Cursor"
 }

@@ -1,10 +1,7 @@
 // Burk-a-Brac | Copyright (C) 2026 Patrick Burk
 // Licensed under the GNU General Public License v3.0 or later.
 
-Hooks.on("drawNote", applyMapNotesTweaks);
-Hooks.on("refreshNote", applyMapNotesTweaks);
-
-export function registerMapNotesSettings() {
+export function registerMapNoteSettings() {
     game.settings.register("burk-a-brac", "MapNotesAlwaysDisplayTextLabels", {
         config: true,
         default: true,
@@ -25,7 +22,12 @@ export function registerMapNotesSettings() {
     });
 }
 
-export function applyMapNotesTweaks (mapNote) {
+export function registerMapNoteHooks() {
+    Hooks.on("drawNote", applyMapNotesTweaks);
+    Hooks.on("refreshNote", applyMapNotesTweaks);
+}
+
+function applyMapNotesTweaks (mapNote) {
     displayTextLabels(mapNote);
     useImageAspectRatio(mapNote);
 }

@@ -1,6 +1,22 @@
 {
-    "BaB.MapNotesAlwaysDisplayTextLabels":      "Map Notes: Always Display Text Labels",
-    "BaB.MapNotesAlwaysDisplayTextLabels_Hint": "Force map notes to always display text labels.",
-    "BaB.MapNotesUseImageAspectRatio":          "Map Notes: Use Image Aspect Ratio",
-    "BaB.MapNotesUseImageAspectRatio_Hint":     "Set map notes' dimensions to the same aspect ratio as their source images."
+    "BaB.AfterJournalName":                          "After Journal Name",
+    "BaB.BeforeJournalName":                         "Before Journal Name",
+    "BaB.JournalsAllowThumbnailsFromTextPages_Hint": "Search for journal thumbnails in text pages as well as image pages.",
+    "BaB.JournalsAllowThumbnailsFromTextPages":      "📖 Journals: Allow Thumbnails from Text Pages",
+    "BaB.JournalsShowThumbnailsInSidebar_Hint":      "Use a journal's first image as its thumbnail in the sidebar.",
+    "BaB.JournalsShowThumbnailsInSidebar":           "📖 Journals: Show Thumbnails in Sidebar",
+    "BaB.JournalsThumbnailPlacement_Hint":           "Where to place the journal thumbnail.",
+    "BaB.JournalsThumbnailPlacement":                "📖 Journals: Thumbnail Placement",
+    "BaB.MapNotesAlwaysDisplayTextLabels_Hint":      "Force map notes to always display text labels.",
+    "BaB.MapNotesAlwaysDisplayTextLabels":           "📍 Map Notes: Always Display Text Labels",
+    "BaB.MapNotesUseImageAspectRatio_Hint":          "Set map notes' dimensions to the same aspect ratio as their source images.",
+    "BaB.MapNotesUseImageAspectRatio":               "📍 Map Notes: Use Image Aspect Ratio",
+    "BaB.UIDefaultCursor_Hint":                      "",
+    "BaB.UIDefaultCursor":                           "🖥 UI: Default Cursor",
+    "BaB.UIGrabCursor_Hint":                         "",
+    "BaB.UIGrabCursor":                              "🖥 UI: Grab Cursor",
+    "BaB.UIPointerCursor_Hint":                      "",
+    "BaB.UIPointerCursor":                           "🖥 UI: Pointer Cursor",
+    "BaB.UITextCursor_Hint":                         "",
+    "BaB.UITextCursor":                              "🖥 UI: Text Cursor"
 }
